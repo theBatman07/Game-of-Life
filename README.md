@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
   ```bash
-  git clone https://github.com/yourusername/game-of-life-java.git
+  https://github.com/theBatman07/Game-of-Life.git
   ```
 
 
